@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=GabrieleBocchi&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-🌱 I’m currently working as a Software Engineer at [Würth Phoenix](https://www.wuerth-phoenix.com)
+🌱 I’m currently working as a Software Engineer at [Würth IT Italy](https://www.wuerth-phoenix.com)
 
 #### 📫 How to reach me
 
