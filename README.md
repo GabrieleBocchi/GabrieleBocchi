@@ -12,4 +12,4 @@
 
 <img height="40" src="https://skillicons.dev/icons?i=ansible,bash,docker,git,githubactions,jenkins,latex,linux,neovim,openshift,py,rust">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GabrieleBocchi&theme=discord&margin-w=3)](https://github-profile-trophy.vercel.app/?username=GabrieleBocchi&theme=discord&margin-w=3)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=GabrieleBocchi&theme=discord&margin-w=3)](https://github-profile-trophy-kannan.vercel.app/?username=GabrieleBocchi&theme=discord&margin-w=3)
